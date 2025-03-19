@@ -51,7 +51,7 @@
                 </p>
 
                 <p class="mt-2">
-                    On Feb 18th,
+                    On Mar 18th,
                     <a
                         href="https://2004.lostcity.rs"
                         target="_blank"
